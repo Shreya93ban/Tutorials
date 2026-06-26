@@ -1,6 +1,6 @@
 # Tutorials
 
-This repository stores tutorial demonstrations for quantum computing with IBM-Qiskit, tensor-network simulations with Quimb, and Clifford simulation with SympleQ methods. 
+This repository stores basic tutorial demonstrations for quantum computing with IBM-Qiskit, tensor-network simulations with Quimb, and Clifford simulation with SympleQ methods. 
 
 ## Dependencies
 
@@ -16,5 +16,5 @@ The tutorials use [Qiskit](https://www.ibm.com/quantum/qiskit) and Qiskit Aer fo
 
 - `Bell_State.ipynb` — creates and simulates a Bell state.
 - `Circuit_simulation_with_sympleq.ipynb` — demonstrates quantum-circuit simulation using SympleQ.
-- `TensorNetworks.ipynb` — introduces tensor-network calculations with Quimb.
-- `Tensor_Network_for_Quantum.ipynb` — demonstrates tensor networks for quantum systems.
+- `TensorNetworks.ipynb` — demonstrates tensor-network simulations.
+- `Tensor_Network_for_Quantum.ipynb` — demonstrates tensor networks simulations with quimb.

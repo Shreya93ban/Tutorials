@@ -5,7 +5,9 @@ qiskit-ibm-runtime==0.47.0
 
 # Plotting and numerical support
 matplotlib==3.11.0
-numpy==2.5.0
+numpy==2.4.6
+pylatexenc # Visualization only
+pandas  # Visualization only
 
 # Notebook kernel support
 ipykernel==7.3.0
@@ -13,5 +15,5 @@ ipykernel==7.3.0
 
 
 scipy
-quimb
-git+https://github.com/QuAOS-Lab/SympleQ.git@dev
+quimb # Tensor Network Simulation
+git+https://github.com/QuAOS-Lab/SympleQ.git@dev # SympleQ: Clifford circuit simulation 

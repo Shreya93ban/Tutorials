@@ -11,3 +11,6 @@ ENV/
 
 # Local AI-agent workspace data
 .agents/
+
+# Local editor settings
+.vscode/

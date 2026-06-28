@@ -1,0 +1,5 @@
+{
+  "files.exclude": {
+    "**/env312": true
+  }
+}
